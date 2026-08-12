@@ -1,0 +1,2 @@
+# Ignore raw Cyclistic CSV datasets
+data/raw/*.csv
