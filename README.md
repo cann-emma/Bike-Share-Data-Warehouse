@@ -46,5 +46,5 @@ An end-to-end data warehouse and behavioral analysis of Chicago's Divvy bike-sha
 🟢 Complete: Data warehouse pipeline (Raw → Staged → Modeled)
 🟡 In progress: Visualization outputs and documentation
 
-Full report and interactive dashboards available [here](link-to-your-report).
+Interactive dashboards available [here](https://public.tableau.com/app/profile/emma.cann3541/viz/CyclisticUserAnalysisVisualization/Dashboard1#1).
 ```
