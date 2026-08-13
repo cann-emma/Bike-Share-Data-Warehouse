@@ -1,6 +1,8 @@
-# Bike-Share-Data-Warehouse
+# Cyclistic Rider Behavior Warehouse
 
 An end-to-end data warehouse and behavioral analysis of Chicago's Divvy bike-share system, designed to identify how casual riders and annual members use the service differently and inform targeted membership conversion strategies.
+
+This project reimagines the Google Data Analytics Capstone (Cyclistic case study) with a production-grade data warehouse architecture, dimensional modeling, and portfolio-quality visualizations, replacing the original flat-file analysis with a scalable, star-schema approach
 
 ---
 
