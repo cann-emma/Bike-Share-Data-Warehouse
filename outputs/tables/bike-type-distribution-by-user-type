@@ -1,0 +1,7 @@
+"rideable_type","member_casual","trip_count","pct_of_rideable_type"
+"electric_bike","member",1888611,50.95
+"classic_bike","member",1759122,47.46
+"electric_bike","casual",1091169,50.87
+"classic_bike","casual",968674,45.16
+"electric_scooter","casual",85215,3.97
+"electric_scooter","member",59122,1.59
