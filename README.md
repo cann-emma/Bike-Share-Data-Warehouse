@@ -49,4 +49,4 @@ This project reimagines the Google Data Analytics Capstone (Cyclistic case study
 - Complete: Data warehouse pipeline (Raw → Staged → Modeled)
 - In progress: Visualization outputs and documentation
 
-`Interactive dashboards available [here](https://public.tableau.com/app/profile/emma.cann3541/viz/CyclisticUserAnalysisVisualization/Dashboard1#1)`
+Interactive dashboards available [here](https://public.tableau.com/app/profile/emma.cann3541/viz/CyclisticUserAnalysisVisualization/Dashboard1#1)
